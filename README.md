@@ -1,7 +1,7 @@
 # Project-Artificial-Girlfriend
 Otaku Saves the World
 
-Prime Programer : Nasy, Laobubu, Sheng Gang Wu
+Prime Programer : Nasy, Laobubu, Cenoo
 
 Prime Script : Mr.Kai
 
